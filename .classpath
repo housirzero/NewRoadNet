@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="D:/Workspaces/MyEclipse for Spring 10/jar/javabuilder.jar"/>
+	<classpathentry kind="lib" path="D:/Workspaces/MyEclipse for Spring 10/jar/clu_dbscan.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jdk1.7.0_67"/>
+	<classpathentry kind="lib" path="D:/Workspaces/MyEclipse for Spring 10/jar/maptools.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
